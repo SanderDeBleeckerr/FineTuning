@@ -1,0 +1,264 @@
+[
+  {
+    "id": "q001",
+    "category": "pillar1_einvoicing",
+    "question": "Are there different deadlines for B2B and B2C transactions?"
+  },
+  {
+    "id": "q002",
+    "category": "pillar1_einvoicing",
+    "question": "Are there country-specific deadlines for adopting e-invoicing?"
+  },
+  {
+    "id": "q003",
+    "category": "pillar1_einvoicing",
+    "question": "Are there country-specific exemptions from mandatory e-invoicing?"
+  },
+  {
+    "id": "q004",
+    "category": "pillar1_einvoicing",
+    "question": "What invoice data must be captured under ViDA’s requirements?"
+  },
+  {
+    "id": "q005",
+    "category": "pillar1_einvoicing",
+    "question": "What are the penalties for failing to comply with mandatory e-invoicing?"
+  },
+  {
+    "id": "q006",
+    "category": "pillar1_einvoicing",
+    "question": "Is e-invoicing mandatory if the supplier is outside the EU?"
+  },
+  {
+    "id": "q007",
+    "category": "pillar1_einvoicing",
+    "question": "Is e-invoicing mandatory if the customer is outside the EU?"
+  },
+  {
+    "id": "q008",
+    "category": "pillar1_einvoicing",
+    "question": "Will paper invoices be abolished or no longer required under ViDA in 2030?"
+  },
+  {
+    "id": "q009",
+    "category": "pillar1_einvoicing",
+    "question": "What is the difference between e-invoicing obligations for suppliers versus customers?"
+  },
+  {
+    "id": "q010",
+    "category": "pillar1_einvoicing",
+    "question": "Will e-invoicing ever be required for transactions with private persons?"
+  },
+  {
+    "id": "q011",
+    "category": "pillar1_einvoicing",
+    "question": "Within how many days after a transaction must an e-invoice be issued?"
+  },
+  {
+    "id": "q012",
+    "category": "pillar1_einvoicing",
+    "question": "Can businesses still use summary invoices under ViDA?"
+  },
+
+  {
+    "id": "q013",
+    "category": "pillar1_drr",
+    "question": "What is the Digital Reporting Requirement (DRR)?"
+  },
+  {
+    "id": "q014",
+    "category": "pillar1_drr",
+    "question": "At what interval must invoice data be submitted to authorities under DRR?"
+  },
+  {
+    "id": "q015",
+    "category": "pillar1_drr",
+    "question": "Why must invoice data be reported to governments under ViDA?"
+  },
+  {
+    "id": "q016",
+    "category": "pillar1_drr",
+    "question": "Who will be able to access the reported invoice data?"
+  },
+  {
+    "id": "q017",
+    "category": "pillar1_drr",
+    "question": "What should businesses do if the governmental reporting system is temporarily non-operational?"
+  },
+  {
+    "id": "q018",
+    "category": "pillar1_drr",
+    "question": "Are there differences between B2B and B2G reporting obligations?"
+  },
+
+  {
+    "id": "q019",
+    "category": "pillar2_platform_economy",
+    "question": "How does ViDA affect suppliers of accommodation or transport services who do not have or do not provide a VAT number?"
+  },
+  {
+    "id": "q020",
+    "category": "pillar2_platform_economy",
+    "question": "How does ViDA define the platform’s role as a deemed supplier?"
+  },
+  {
+    "id": "q021",
+    "category": "pillar2_platform_economy",
+    "question": "How does ViDA influence VAT obligations for platforms that serve cross-border customers?"
+  },
+  {
+    "id": "q022",
+    "category": "pillar2_platform_economy",
+    "question": "Is the second pillar of ViDA applicable for platforms offering long-term stay accomodations?"
+  },
+  {
+    "id": "q023",
+    "category": "pillar2_platform_economy",
+    "question": "What happens to call-off stock simplification under ViDA?"
+  },
+  {
+    "id": "q024",
+    "category": "pillar2_platform_economy",
+    "question": "How will ViDA prevent tax fraud?"
+  },
+
+  {
+    "id": "q025",
+    "category": "pillar3_svr_oss",
+    "question": "What changes does ViDA introduce to the OSS (One Stop Shop)?"
+  },
+  {
+    "id": "q026",
+    "category": "pillar3_svr_oss",
+    "question": "For which specific supplies is the extended OSS used under ViDA?"
+  },
+  {
+    "id": "q027",
+    "category": "pillar3_svr_oss",
+    "question": "How does ViDA reduce or prevent the need for multiple VAT registrations across the EU?"
+  },
+  {
+    "id": "q028",
+    "category": "pillar3_svr_oss",
+    "question": "Are businesses required to register for OSS if they operate in another EU country by 2030?"
+  },
+
+  {
+    "id": "q029",
+    "category": "pillar3b_psp_reporting",
+    "question": "What payment data must be captured and reported under ViDA?"
+  },
+  {
+    "id": "q030",
+    "category": "pillar3b_psp_reporting",
+    "question": "Are banks and payment service providers subject to ViDA’s reporting obligations?"
+  },
+  {
+    "id": "q031",
+    "category": "pillar3b_psp_reporting",
+    "question": "Are there penalties for failing to report payment data?"
+  },
+  {
+    "id": "q032",
+    "category": "pillar3b_psp_reporting",
+    "question": "Must payment providers retain reported data, and if so, for how long?"
+  },
+  {
+    "id": "q033",
+    "category": "pillar3b_psp_reporting",
+    "question": "Must intra-group payments (e.g., holding and subsidiary transactions) be reported under ViDA?"
+  },
+
+  {
+    "id": "q034",
+    "category": "crosscutting_company_compliance",
+    "question": "Will newly established companies receive additional time to integrate ViDA requirements?"
+  },
+  {
+    "id": "q035",
+    "category": "crosscutting_company_compliance",
+    "question": "If a national government already has its own e-invoicing or reporting system, must companies still comply with ViDA?"
+  },
+  {
+    "id": "q036",
+    "category": "crosscutting_company_compliance",
+    "question": "If a company already uses EDI, must it still adopt ViDA-compliant e-invoicing and reporting?"
+  },
+  {
+    "id": "q037",
+    "category": "crosscutting_company_compliance",
+    "question": "Is ViDA enforceable upon non-profit or non-VAT-liable entities?"
+  },
+  {
+    "id": "q038",
+    "category": "crosscutting_company_compliance",
+    "question": "Are there cases under ViDA where one entity must report VAT or transaction data on behalf of another?"
+  },
+
+  {
+    "id": "q039",
+    "category": "crosscutting_reporting_sharing",
+    "question": "Will the EC Purchase Listing be integrated across all EU member states under ViDA?"
+  },
+  {
+    "id": "q040",
+    "category": "crosscutting_reporting_sharing",
+    "question": "What is VIES, and what is its role under ViDA?"
+  },
+  {
+    "id": "q041",
+    "category": "crosscutting_reporting_sharing",
+    "question": "To whom do national authorities transmit invoice data?"
+  },
+  {
+    "id": "q042",
+    "category": "crosscutting_reporting_sharing",
+    "question": "How will the Intracommunity (ICP) / EU Sales Listing process look under ViDA?"
+  },
+  {
+    "id": "q043",
+    "category": "crosscutting_reporting_sharing",
+    "question": "Will reporting rules be harmonised across all EU member states?"
+  },
+  {
+    "id": "q044",
+    "category": "crosscutting_reporting_sharing",
+    "question": "What is the timeline for rolling out the various components of ViDA?"
+  },
+
+  {
+    "id": "q045",
+    "category": "reverse_charge",
+    "question": "What is the reverse charge mechanism?"
+  },
+  {
+    "id": "q046",
+    "category": "reverse_charge",
+    "question": "What if a supplier cannot issue a ViDA-compliant e-invoice?"
+  },
+  {
+    "id": "q047",
+    "category": "reverse_charge",
+    "question": "How does the reverse charge apply to non-VAT-registered sellers of accommodation or transport services?"
+  },
+  {
+    "id": "q048",
+    "category": "reverse_charge",
+    "question": "Is the reverse charge mechanism applicable to transactions between sister companies?"
+  },
+  {
+    "id": "q049",
+    "category": "reverse_charge",
+    "question": "Can a company invoice without VAT if the supply would normally be subject to local VAT but falls under reverse charge?"
+  },
+  {
+    "id": "q050",
+    "category": "reverse_charge",
+    "question": "How does the reverse charge mechanism work for foreign companies without a branch in a member state?"
+  },
+  {
+    "id": "q051",
+    "category": "reverse_charge",
+    "question": "How will the reverse charge mechanism be rolled out under ViDA?"
+  }
+]

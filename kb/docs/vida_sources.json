@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "VIDA_NEWS_ADOPTION_2025_03_11",
+    "title": "Adoption of the VAT in the Digital Age package",
+    "url": "https://taxation-customs.ec.europa.eu/news/adoption-vat-digital-age-package-2025-03-11_en",
+    "source_type": "commission_official",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_DIR_2025_516_OJ",
+    "title": "Directive (EU) 2025/516 - VAT in the Digital Age",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500516",
+    "source_type": "primary_legal",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_REG_2025_517_OJ",
+    "title": "Council Regulation (EU) 2025/517 - administrative cooperation",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500517",
+    "source_type": "primary_legal",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_IMPLREG_2025_518_OJ",
+    "title": "Council Implementing Regulation (EU) 2025/518",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500518",
+    "source_type": "primary_legal",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_OVERVIEW_PAGE",
+    "title": "VAT in the Digital Age (ViDA) - overview",
+    "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-digital-age-vida_en",
+    "source_type": "commission_official",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_NEWS_VIVA_LA_VIDA_2024_11_28",
+    "title": "Viva la ViDA! News item",
+    "url": "https://taxation-customs.ec.europa.eu/news/viva-la-vida-2024-11-28_en",
+    "source_type": "commission_official",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VIDA_PRESS_IP_24_5666",
+    "title": "Commission press release IP/24/5666 on ViDA",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5666",
+    "source_type": "commission_official",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  },
+  {
+    "doc_id": "VAT_GAP_BACKGROUND",
+    "title": "VAT Gap - background page",
+    "url": "https://taxation-customs.ec.europa.eu/taxation/vat/fight-against-vat-fraud/vat-gap_en",
+    "source_type": "background_report",
+    "pillar": "cross_pillar",
+    "language": "en",
+    "format": "html"
+  }
+]
