@@ -2,3 +2,5 @@ id_*
 sha*
 latest
 history
+blobs/
+manifests/
