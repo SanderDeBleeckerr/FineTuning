@@ -2,104 +2,123 @@
   {
     "id": "q001",
     "category": "pillar1_einvoicing",
-    "question": "Are there different deadlines for B2B and B2C transactions?"
+    "question": "Are there different deadlines for B2B and B2C transactions?",
+    "answer":"Yes the first pillar of VIDA targets B2B services and does not mention B2C. B2C mandatory e-invoicing is planned but not yet scheduled."
   },
   {
     "id": "q002",
     "category": "pillar1_einvoicing",
-    "question": "Are there country-specific deadlines for adopting e-invoicing?"
+    "question": "Are there country-specific deadlines for adopting e-invoicing?",
+    "answer":"The targetdate for mandatory e-invoicing under ViDA is January 1, 2030, for all EU member states. However, individual countries may choose to implement e-invoicing requirements earlier than this date. Businesses should check with their local tax authorities for specific deadlines and requirements in their respective countries."
   },
   {
     "id": "q003",
     "category": "pillar1_einvoicing",
-    "question": "Are there country-specific exemptions from mandatory e-invoicing?"
+    "question": "Are there country-specific exemptions from mandatory e-invoicing?",
+    "answer":"No, even though the deadlines differ between EU member states, there are no exempt countries. Only new EU member states might be granted a temporary exemption period upon joining the union."
   },
   {
     "id": "q004",
     "category": "pillar1_einvoicing",
-    "question": "What invoice data must be captured under ViDA’s requirements?"
+    "question": "What invoice data must be captured under ViDA’s requirements?",
+    "answer":"For the mandatory e-invoicing date any EU supported invoice format can be used, for digital reporting requirements further specifications are pending. "
   },
   {
     "id": "q005",
     "category": "pillar1_einvoicing",
-    "question": "What are the penalties for failing to comply with mandatory e-invoicing?"
+    "question": "What are the penalties for failing to comply with mandatory e-invoicing?",
+    "answer":"Penalties for non-compliance are country specific. Given a specific country I can provide more details."
   },
   {
     "id": "q006",
     "category": "pillar1_einvoicing",
-    "question": "Is e-invoicing mandatory if the supplier is outside the EU?"
+    "question": "Is e-invoicing mandatory if the supplier is outside the EU?",
+    "answer":"Before 2030 no, after 2030 yes via Digital Reporting Requirements."
   },
   {
     "id": "q007",
     "category": "pillar1_einvoicing",
-    "question": "Is e-invoicing mandatory if the customer is outside the EU?"
+    "question": "Is e-invoicing mandatory if the customer is outside the EU?",
+    "answer":"There are no current plans to mandate e-invoicing for B2B transactions where the customer is outside the EU."
   },
   {
     "id": "q008",
     "category": "pillar1_einvoicing",
-    "question": "Will paper invoices be abolished or no longer required under ViDA in 2030?"
+    "question": "Will paper invoices be abolished or no longer required under ViDA in 2030?",
+    "answer":"For paper invoices the recipient would no longer be required to accept them, member states can still accept paper invoices for transactions not subject to reporting obligations. Paper invoices are inclined to phase out but not forced out by ViDa"
   },
   {
     "id": "q009",
     "category": "pillar1_einvoicing",
-    "question": "What is the difference between e-invoicing obligations for suppliers versus customers?"
+    "question": "What is the difference between e-invoicing obligations for suppliers versus customers?",
+    "answer": "The obligation is on the side of the supplier to issue e-invoices."
   },
   {
     "id": "q010",
     "category": "pillar1_einvoicing",
-    "question": "Will e-invoicing ever be required for transactions with private persons?"
+    "question": "Will e-invoicing ever be required for transactions with private persons?",
+    "answer": "No, there are currently no plans to require e-invoicing for private non commercial transactions."
   },
   {
     "id": "q011",
     "category": "pillar1_einvoicing",
-    "question": "Within how many days after a transaction must an e-invoice be issued?"
+    "question": "Within how many days after a transaction must an e-invoice be issued?",
+    "answer":"For cross-border transactions the deadline would be 10 days after the chargeable event. Summary invoices have a deadline 10 days after the calendar month. Recipients may also need to report data 5 days after receiving."
   },
   {
     "id": "q012",
     "category": "pillar1_einvoicing",
-    "question": "Can businesses still use summary invoices under ViDA?"
+    "question": "Can businesses still use summary invoices under ViDA?",
+    "answer": "Yes"
   },
-
   {
     "id": "q013",
     "category": "pillar1_drr",
-    "question": "What is the Digital Reporting Requirement (DRR)?"
+    "question": "What is the Digital Reporting Requirement (DRR)?",
+    "answer":"It is real-time digital reporting for cross-border trade based on e-invoicing."
   },
   {
     "id": "q014",
     "category": "pillar1_drr",
-    "question": "At what interval must invoice data be submitted to authorities under DRR?"
+    "question": "At what interval must invoice data be submitted to authorities under DRR?",
+    "answer":"There is no concrete interval defined at this moment, the expectation is near realtime"
   },
   {
     "id": "q015",
     "category": "pillar1_drr",
-    "question": "Why must invoice data be reported to governments under ViDA?"
+    "question": "Why must invoice data be reported to governments under ViDA?",
+    "answer":"In order to prevent tax evasion and avoidance."
   },
   {
     "id": "q016",
     "category": "pillar1_drr",
-    "question": "Who will be able to access the reported invoice data?"
+    "question": "Who will be able to access the reported invoice data?",
+    "answer":"The european union and the respective member states."
   },
   {
     "id": "q017",
     "category": "pillar1_drr",
-    "question": "What should businesses do if the governmental reporting system is temporarily non-operational?"
+    "question": "What should businesses do if the governmental reporting system is temporarily non-operational?",
+    "answer":"There is no universal rule for what should happen if the e-invoicing platform becomes unavailable. A member state may dictate it's own rules for such cases."
   },
   {
     "id": "q018",
     "category": "pillar1_drr",
-    "question": "Are there differences between B2B and B2G reporting obligations?"
+    "question": "Are there differences between B2B and B2G reporting obligations?",
+    "answer":"B2G is obligatory since 2019 while B2B is becoming obligatory depending on the member state the businesses are located in."
   },
 
   {
     "id": "q019",
     "category": "pillar2_platform_economy",
-    "question": "How does ViDA affect suppliers of accommodation or transport services who do not have or do not provide a VAT number?"
+    "question": "How does ViDA affect suppliers of accommodation or transport services who do not have or do not provide a VAT number?",
+    "answer":"The platform has to report the transaction for them as 'deemed supplier' and withold VAT if applicable."
   },
   {
     "id": "q020",
     "category": "pillar2_platform_economy",
-    "question": "How does ViDA define the platform’s role as a deemed supplier?"
+    "question": "How does ViDA define the platform’s role as a deemed supplier?",
+    "answer":"ViDA specifically states 'short-term accommodation rental sector and the sector of passenger transport by road', there the platform as deemed supplier can be required due the actual supplier being non-taxable persons or taxable persons availing themselves of the special scheme for small enterprises."
   },
   {
     "id": "q021",
